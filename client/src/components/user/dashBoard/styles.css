@@ -1,0 +1,16 @@
+.main-container{
+    position: absolute;
+    left: 60%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.row-user{
+
+width: 1000px;
+margin-top: 10%;
+margin-right: 10%;
+
+}
+
